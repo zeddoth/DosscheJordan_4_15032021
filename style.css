@@ -657,7 +657,7 @@ label,
 a {
   font-family: "helvetica";
   font-weight: 400;
-  color: #575757 !important;
+  color: black !important;
 }
 
 .container {
@@ -698,7 +698,7 @@ p {
 
 .cta-hero {
   margin-top: 22px;
-  color: #ffffff !important;
+  color: black;
   text-transform: uppercase;
   padding: 12px 28px 12px 28px;
   font-size: 16px;
@@ -744,6 +744,9 @@ h4 {
 .white {
   color: #ffffff !important;
 }
+.black{
+  color: black;
+}
 
 .portfolio-thumb {
   margin-bottom: 24px;
@@ -786,12 +789,12 @@ h4 {
 
 .btn-atomic-tangerine {
   background: #f3976c;
-  color: #ffffff !important;
+  color: black !important;
 }
 
 .btn-atomic-tangerine:hover {
   background: #c27956 !important;
-  color: #ffffff !important;
+  color: black !important;
 }
 
 .ltc-white {
